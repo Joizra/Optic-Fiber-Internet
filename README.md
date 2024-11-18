@@ -43,7 +43,9 @@ The project followed these BI stages:
 #### **Outputs of each stage**
 1. **Capture**:  
    1.1. [Stakeholder Requirements Document](https://github.com/Joizra/Optic-Fiber-Internet/blob/55340bf976d0cabc079a8bbcd6a51b8bcec31d08/1.%20Strategy%20Document%20-%20Google%20Fiber.docx)
-   1.2. [Project Requirements Document]()
+   
+   1.2. [Project Requirements Document](https://github.com/Joizra/Optic-Fiber-Internet/blob/358ff360cbf5e9d2590812441ff7cc7c1e412817/2.%20Project%20Requirements%20Document%20-%20Google%20Fiber.docx)
+   
    1.3. [Strategy Document]()
 
 3. **Analyze**:  
