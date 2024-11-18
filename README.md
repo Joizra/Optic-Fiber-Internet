@@ -1,5 +1,4 @@
-# Designing a Dashboard for Google Fiber Customer Service
-Business Intelligence to monitor and improve customer satisfaction for the customer service team at Google Fiber.
+# Business Intelligence to monitor and improve customer satisfaction for Google Fiber Customer Service
 
 #### **Project Objective**
 The goal of this project was to create a dashboard that provides actionable insights to reduce call volume by improving customer satisfaction and operational efficiency. Specifically, the project focuses on:  
